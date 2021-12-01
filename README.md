@@ -8,4 +8,6 @@ This project utilizes MongoDB, Mongoose, Express, and Node to create a working A
 4. Use the animation below to understand the API routes and how to create, modify, and delete information.
  
  ## Usage
+Click the GIF to view in full resolution (for smaller resolution screens).
+
 ![demo](demo.gif)
